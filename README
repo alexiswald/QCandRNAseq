@@ -1,4 +1,4 @@
 This workflow is modified from Dr. Sanders's MDIBL pipeline for counts:
 https://github.com/ssander5/MDIBL_pipeline_for_counts
 
-In addition to modifications to this existing pipeline, a workflow for isoform-level analysis has been added
+In addition to modifications to this existing pipeline, a workflow for isoform-level analysis has been added in both bash and R scripts
